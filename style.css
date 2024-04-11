@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Pathway+Extreme:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap');
+
+body{
+    font-family: "Pathway Extreme", sans-serif !important;
+}
+.navbar{
+    background-image: repeating-linear-gradient(140deg, rgba(12, 12, 12, 0.09) 0%, rgba(12, 12, 12, 0.09) 50%,rgba(165, 165, 165, 0.09) 50%, rgba(165, 165, 165, 0.09) 100%),linear-gradient(201deg, rgba(109, 109, 109, 0.06) 0%, rgba(109, 109, 109, 0.06) 50%,rgba(223, 223, 223, 0.06) 50%, rgba(223, 223, 223, 0.06) 100%),linear-gradient(121deg, rgba(10, 10, 10, 0.02) 0%, rgba(10, 10, 10, 0.02) 50%,rgba(28, 28, 28, 0.02) 50%, rgba(28, 28, 28, 0.02) 100%),linear-gradient(74deg, rgba(78, 78, 78, 0.06) 0%, rgba(78, 78, 78, 0.06) 50%,rgba(191, 191, 191, 0.06) 50%, rgba(191, 191, 191, 0.06) 100%),linear-gradient(74deg, rgba(227, 227, 227, 0.08) 0%, rgba(227, 227, 227, 0.08) 50%,rgba(156, 156, 156, 0.08) 50%, rgba(156, 156, 156, 0.08) 100%),linear-gradient(279deg, rgba(34, 34, 34, 0.09) 0%, rgba(34, 34, 34, 0.09) 50%,rgba(155, 155, 155, 0.09) 50%, rgba(155, 155, 155, 0.09) 100%),linear-gradient(114deg, rgba(136, 136, 136, 0.09) 0%, rgba(136, 136, 136, 0.09) 50%,rgba(118, 118, 118, 0.09) 50%, rgba(118, 118, 118, 0.09) 100%),linear-gradient(186deg, rgba(187, 187, 187, 0.04) 0%, rgba(187, 187, 187, 0.04) 50%,rgba(152, 152, 152, 0.04) 50%, rgba(152, 152, 152, 0.04) 100%),linear-gradient(116deg, rgb(252, 45, 228),rgb(120, 16, 230));
+}
+.nav-link{
+    font-weight: 500 !important;
+    font-size: 1rem !important;
+    
+    text-align: center !important;
+}
+.nav-link:hover{
+    color: black !important;
+    background-color: #D426F3 !important;
+    border-radius: 10px !important;
+}
+.btn-info{
+    color: black !important;
+    background-color: #D426F3 !important;
+    border-radius: 10px !important;
+
+}
+.navbar-toggler-icon{
+    background-color: #D426F3 !important;
+    border-color: #531b5d;
+    border: none !important;
+}
+.ban{
+    background-color: #e196ef !important ;
+    font-weight: 500 !important;
+    text-decoration: none !important;
+    
+}
+.ban:hover{
+    background-color: #cb17eb !important;
+    color: aliceblue !important;
+    
+    
+}
+a{
+    text-decoration: none !important;
+}
+
+.tex{
+    color: #D426F3 !important;
+}
+.card-title{
+    color: #D426F3 !important;
+}
+.card:hover{
+    zoom: 102%;
+}
+.card-text{
+    color: #706bf0 !important;
+}
+.card-img-top{
+    height: 300px;
+    width: 400px;
+    
+}
+.nav-item{
+    border: none !important;
+}
